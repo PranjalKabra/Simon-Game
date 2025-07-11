@@ -3,6 +3,7 @@ This fun game is made for learning the basics of JQuery, JavaScript, HTML and Cs
 ### How to play?
 You have to try to replicate the sequence made by random with the help of JS.
 Go challenge your memory!!!
+https://pranjalkabra.github.io/Simon-Game/
 
 
 
